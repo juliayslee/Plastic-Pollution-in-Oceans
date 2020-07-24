@@ -5,10 +5,10 @@ My motivation for this project is to educate individuals with factual results ab
 ### Notes on dataset columns:		
 
 - Economic Status (Based upon 2010 Gross National Income):
-  - Low income country (LIC)
-  - Lower middle income country (LMC)
-  - Upper middle income country (UMC)
-  - High income country (HIC))
+  - Low income country (LIC) ~$1,025 or less
+  - Lower middle income country (LMC) ~$1,026 and $3,995
+  - Upper middle income country (UMC) ~$3,996 and $12,375
+  - High income country (HIC)) ~$12,376 or more
 
 - Coastal Population (Based upon a 50 km coastal buffer)
 
@@ -33,4 +33,5 @@ My motivation for this project is to educate individuals with factual results ab
 - Mismanaged Plastic Waste in 2025 – Only Plastic Mismanaged waste is material which is at high risk of entering the ocean via wind or tidal transport, or carried to coastlines from inland waterways. Mismanaged waste is the sum of material which is either littered or inadequately disposed. 
 
 ## Sources
-[Data](https://science.sciencemag.org/content/suppl/2015/02/11/347.6223.768.DC1)
+- [Data](https://science.sciencemag.org/content/suppl/2015/02/11/347.6223.768.DC1)
+- [GNI Info](https://datatopics.worldbank.org/world-development-indicators/stories/the-classification-of-countries-by-income.html#:~:text=As%20of%201%20July%202019,between%20%243%2C996%20and%20%2412%2C375%3B%20high%2D)
