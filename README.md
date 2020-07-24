@@ -5,10 +5,10 @@ My motivation for this project is to educate individuals with factual results ab
 ### Notes on dataset columns:		
 
 - Economic Status (Based upon 2010 Gross National Income):
-  - Low income country (LIC)
-  - Lower middle income country (LMC)
-  - Upper middle income country (UMC)
-  - High income country (HIC))
+  - Low income country (LIC) ~$1,025 or less
+  - Lower middle income country (LMC) ~$1,026 and $3,995
+  - Upper middle income country (UMC) ~$3,996 and $12,375
+  - High income country (HIC)) ~$12,376 or more
 
 - Coastal Population (Based upon a 50 km coastal buffer)
 
