@@ -34,3 +34,4 @@ My motivation for this project is to educate individuals with factual results ab
 
 ## Sources
 [Data](https://science.sciencemag.org/content/suppl/2015/02/11/347.6223.768.DC1)
+[GNI Info](https://datatopics.worldbank.org/world-development-indicators/stories/the-classification-of-countries-by-income.html#:~:text=As%20of%201%20July%202019,between%20%243%2C996%20and%20%2412%2C375%3B%20high%2D)
