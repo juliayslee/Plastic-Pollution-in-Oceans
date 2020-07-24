@@ -5,10 +5,10 @@ My motivation for this project is to educate individuals with factual results ab
 ### Notes on dataset columns:		
 
 - Economic Status (Based upon 2010 Gross National Income):
-Low income country (LIC)
-Lower middle income country (LMC)
-Upper middle income country (UMC)
-High income country (HIC))
+  - Low income country (LIC)
+  - Lower middle income country (LMC)
+  - Upper middle income country (UMC)
+  - High income country (HIC))
 
 - Coastal Population (Based upon a 50 km coastal buffer)
 
