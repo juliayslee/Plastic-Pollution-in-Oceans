@@ -1,6 +1,6 @@
 # Plastic-Pollution-in-Oceans
 
-My motivation for this project is to educate individuals with factual results about the immense plastic pollution in our oceans/waters today. 
+My motivation for this project is to educate individuals with factual results about the immense plastic pollution in our oceans/waters today. Plastic Free July 
 
 ### Notes on dataset columns:		
 
