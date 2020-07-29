@@ -1,6 +1,6 @@
 # Plastic-Pollution-in-Oceans
 
-My motivation for this project is to educate individuals with factual results about the immense plastic pollution in our oceans/waters today. 
+My motivation for this project is to educate individuals with factual results about the immense plastic pollution in our oceans/waters today. Plastic Free July 
 
 ### Notes on dataset columns:		
 
@@ -18,7 +18,7 @@ My motivation for this project is to educate individuals with factual results ab
 
 - Percent Inadequately Managed Waste: All waste inadequately disposed of includes uncontrolled landfills, dumps that are not managed and uncontained. This leads to a higher risk in ending up in water/oceans.
 
-- Waste management (or waste disposal) are the activities and actions required to manage waste from its inception to its final disposal.[1]This includes the collection, transport, treatment and disposal of waste, together with monitoring and regulation of the waste management process. This does not include 'littered' plastic waste, which is approximately 2% of total waste (including high-income countries).
+- Waste management (or waste disposal) are the activities and actions required to manage waste from its inception to its final disposal. This includes the collection, transport, treatment and disposal of waste, together with monitoring and regulation of the waste management process. This does not include 'littered' plastic waste, which is approximately 2% of total waste (including high-income countries).
 
 - Percent Littered Waste: Consists of waste products that have been disposed of improperly, without consent, at an undesirable location.
 
