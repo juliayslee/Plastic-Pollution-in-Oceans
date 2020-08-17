@@ -1,6 +1,6 @@
-# Plastic-Pollution-in-Oceans
+# Worldwide-Waste-Pollution
 
-My motivation for this project is to educate individuals with factual results about the immense plastic pollution in our oceans/waters today. Taking world wide data from 2010, I'll be going through an analysis to answer some interesting questions and provide visuals that will share this story.
+My motivation for this project is to educate individuals with factual results about the immense plastic/waste pollution in our oceans/waters today. Taking world wide data from 2010, I'll be going through an analysis to answer some interesting questions and provide visuals that will share this story.
 
 ### Notes on dataset columns:		
 
